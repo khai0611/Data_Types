@@ -1,0 +1,8 @@
+D:\Học lập trình c#\Data Types\Data Types\bin\Debug\Data Types.exe.config
+D:\Học lập trình c#\Data Types\Data Types\bin\Debug\Data Types.exe
+D:\Học lập trình c#\Data Types\Data Types\bin\Debug\Data Types.pdb
+D:\Học lập trình c#\Data Types\Data Types\obj\Debug\Data Types.csproj.AssemblyReference.cache
+D:\Học lập trình c#\Data Types\Data Types\obj\Debug\Data Types.csproj.SuggestedBindingRedirects.cache
+D:\Học lập trình c#\Data Types\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
+D:\Học lập trình c#\Data Types\Data Types\obj\Debug\Data Types.exe
+D:\Học lập trình c#\Data Types\Data Types\obj\Debug\Data Types.pdb
